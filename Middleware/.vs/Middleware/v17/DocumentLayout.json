@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F174DCD-8FAE-4349-9231-EFB17CD74889}|MidREST\\MidREST.csproj|c:\\users\\pc01\\desktop\\p7\\middleware\\midrest\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F174DCD-8FAE-4349-9231-EFB17CD74889}|MidREST\\MidREST.csproj|solutionrelative:midrest\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456934AA-6554-4B35-ABE6-98D073BA5AC6}|Logica\\Logica.csproj|C:\\Users\\PC01\\Desktop\\P7\\Middleware\\logica\\middlewareproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456934AA-6554-4B35-ABE6-98D073BA5AC6}|Logica\\Logica.csproj|solutionrelative:logica\\middlewareproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F174DCD-8FAE-4349-9231-EFB17CD74889}|MidREST\\MidREST.csproj|c:\\users\\pc01\\desktop\\p7\\middleware\\midrest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4F174DCD-8FAE-4349-9231-EFB17CD74889}|MidREST\\MidREST.csproj|solutionrelative:midrest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456934AA-6554-4B35-ABE6-98D073BA5AC6}|Logica\\Logica.csproj|c:\\users\\pc01\\desktop\\p7\\middleware\\logica\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{456934AA-6554-4B35-ABE6-98D073BA5AC6}|Logica\\Logica.csproj|solutionrelative:logica\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711862F-91B5-4ABD-833B-8CDE20C3D671}|MidSOAP\\MidSOAP.csproj|C:\\Users\\PC01\\Desktop\\P7\\Middleware\\midsoap\\ws-productos-soap.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711862F-91B5-4ABD-833B-8CDE20C3D671}|MidSOAP\\MidSOAP.csproj|solutionrelative:midsoap\\ws-productos-soap.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB761C1-3A86-4147-B54A-4B4E2F1FE62E}|Datos\\Datos.csproj|C:\\Users\\PC01\\Desktop\\P7\\Middleware\\datos\\entidades\\productossuperx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB761C1-3A86-4147-B54A-4B4E2F1FE62E}|Datos\\Datos.csproj|solutionrelative:datos\\entidades\\productossuperx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB761C1-3A86-4147-B54A-4B4E2F1FE62E}|Datos\\Datos.csproj|C:\\Users\\PC01\\Desktop\\P7\\Middleware\\datos\\entidades\\productostiendamil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB761C1-3A86-4147-B54A-4B4E2F1FE62E}|Datos\\Datos.csproj|solutionrelative:datos\\entidades\\productostiendamil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB761C1-3A86-4147-B54A-4B4E2F1FE62E}|Datos\\Datos.csproj|C:\\Users\\PC01\\Desktop\\P7\\Middleware\\datos\\dto\\dtoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB761C1-3A86-4147-B54A-4B4E2F1FE62E}|Datos\\Datos.csproj|solutionrelative:datos\\dto\\dtoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\MidREST\\Web.config",
+              "RelativeDocumentMoniker": "MidREST\\Web.config",
+              "ToolTip": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\MidREST\\Web.config",
+              "RelativeToolTip": "MidREST\\Web.config",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-04T03:04:23.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\Logica\\app.config",
+              "RelativeDocumentMoniker": "Logica\\app.config",
+              "ToolTip": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\Logica\\app.config",
+              "RelativeToolTip": "Logica\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-04T03:03:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosSuperX.cs",
+              "DocumentMoniker": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\Datos\\Entidades\\ProductosSuperX.cs",
+              "RelativeDocumentMoniker": "Datos\\Entidades\\ProductosSuperX.cs",
+              "ToolTip": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\Datos\\Entidades\\ProductosSuperX.cs",
+              "RelativeToolTip": "Datos\\Entidades\\ProductosSuperX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:10:35.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiddlewareProductos.cs",
+              "DocumentMoniker": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\Logica\\MiddlewareProductos.cs",
+              "RelativeDocumentMoniker": "Logica\\MiddlewareProductos.cs",
+              "ToolTip": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\Logica\\MiddlewareProductos.cs",
+              "RelativeToolTip": "Logica\\MiddlewareProductos.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAQwHgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:27:56.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\MidREST\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "MidREST\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\MidREST\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "MidREST\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:30:04.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosTiendaMil.cs",
+              "DocumentMoniker": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\Datos\\Entidades\\ProductosTiendaMil.cs",
+              "RelativeDocumentMoniker": "Datos\\Entidades\\ProductosTiendaMil.cs",
+              "ToolTip": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\Datos\\Entidades\\ProductosTiendaMil.cs",
+              "RelativeToolTip": "Datos\\Entidades\\ProductosTiendaMil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:11:20.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WS-Productos-SOAP.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\MidSOAP\\WS-Productos-SOAP.asmx.cs",
+              "RelativeDocumentMoniker": "MidSOAP\\WS-Productos-SOAP.asmx.cs",
+              "ToolTip": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\MidSOAP\\WS-Productos-SOAP.asmx.cs",
+              "RelativeToolTip": "MidSOAP\\WS-Productos-SOAP.asmx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:00:01.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTOProducto.cs",
+              "DocumentMoniker": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\Datos\\DTO\\DTOProducto.cs",
+              "RelativeDocumentMoniker": "Datos\\DTO\\DTOProducto.cs",
+              "ToolTip": "C:\\Users\\PC01\\Desktop\\P7\\Middleware\\Datos\\DTO\\DTOProducto.cs",
+              "RelativeToolTip": "Datos\\DTO\\DTOProducto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:54:47.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
